@@ -11,4 +11,4 @@ Used DBMS: MariaDB 10.1.26.
 # Installation
 Put files of the project into the document root of the web server.
 Create a database and import /abiturdb.sql.
-Edit /config/db_params.php according to server and DBMS data. 
+Edit /app/config/db_params.php according to server and DBMS data. 
